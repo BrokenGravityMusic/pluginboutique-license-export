@@ -1,6 +1,7 @@
-pluginboutique-license-export
+# pluginboutique-license-export
 
 A UserScript for exporting your licenses on PluginBoutique.com for backup purposes.
+
 ## Description
 
 This is a userscript meant to be run through tools like TamperMonkey or GreaseMonkey in your browser. It has only been tested on Firefox so far.
